@@ -1,7 +1,7 @@
 # Filosofia - Bacharelado 2020.1
 
-This is a Jekyll theme for using Tufte CSS alongside `pandoc-sidenote`. It's
-based off of
+<img src="https://i.imgur.com/pA2d7HO.gif" alt="gifmind" />
+
 
 - [Tufte CSS] for the original CSS file
 - [Tufte Pandoc CSS] uses Markdown in conjunction with Tufte CSS
