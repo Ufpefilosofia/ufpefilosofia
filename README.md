@@ -1,4 +1,4 @@
-# tufte-pandoc-jekyll
+# Filosofia - Bacharelado 2020.1
 
 This is a Jekyll theme for using Tufte CSS alongside `pandoc-sidenote`. It's
 based off of
